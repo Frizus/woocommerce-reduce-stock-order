@@ -1,1 +1,0 @@
-# woocommerce-reduce-stock-order
